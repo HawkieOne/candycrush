@@ -26,7 +26,7 @@ A small game which works as candy crush. Match the candies of the same color and
 ### Built With
 
 * [React.js](https://reactjs.org/)
-* 
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
