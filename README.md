@@ -15,7 +15,10 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
- <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com)  -->
+<div align="center">
+  <a href="https://hawkie.me"><img alt="Screenshot of app" src="candycrushImage.png" /></a>
+</div>
+
 
 A small game which works as candy crush. Match the candies of the same color and try to get as highs core as possible!
 
