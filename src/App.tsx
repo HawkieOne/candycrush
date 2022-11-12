@@ -3,12 +3,12 @@ import ScoreBoard from './components/ScoreBoard';
 import MovesBoard from './components/MovesBoard';
 import NewGameButton from './components/NewGameButton/NewGameButton';
 
-import blueCandy from './images/blue-candy.png';
-import greenCandy from './images/green-candy.png';
-import orangeCandy from './images/orange-candy.png';
-import purpleCandy from './images/purple-candy.png';
-import redCandy from './images/red-candy.png';
-import yellowCandy from './images/yellow-candy.png';
+import blueCandy from './images/blue-candy.avif';
+import greenCandy from './images/green-candy.avif';
+import orangeCandy from './images/orange-candy.avif';
+import purpleCandy from './images/purple-candy.avif';
+import redCandy from './images/red-candy.avif';
+import yellowCandy from './images/yellow-candy.avif';
 import blank from './images/blank.png';
 import CandyElement from "./components/CandyElement";
 
