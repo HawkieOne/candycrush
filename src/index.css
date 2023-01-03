@@ -46,3 +46,50 @@ body, html {
   justify-content: space-around;
   color: #fff;
 }
+
+.popup {
+  visibility: hidden;
+  background-color:rgba(0, 0, 0, 0.3);
+  z-index: 10;
+  height: 100%;
+  width: 100%;  
+  color: #fff;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inner-popup {
+  background-color:rgba(0, 0, 0, 0.8  );
+  padding: 2% 5%;
+  font-size: larger;
+  border-radius: 20px;
+  text-align: center;
+}
+.small-text {
+  font-size: medium;
+}
+
+@media screen and (max-width: 600px) {
+  body, html {
+    height: 100%;
+    width: 100%;
+  }
+  .game {
+    width: 330px;
+    height: 330px;
+    display: grid;
+    padding: 3%;
+    grid-template-columns: auto auto auto auto auto auto auto auto;
+  }
+  .game img {
+    width: 40px;
+    height: 40px;
+  }
+  .stats {
+    width: 300px;
+  }
+  .popup {
+    visibility: visible;
+  }
+}
